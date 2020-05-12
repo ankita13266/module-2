@@ -16,7 +16,7 @@ h2{
     background-color: red;
     
 }
-p{
+div,p{
    font-color: black;
     font-family:Sans-serif;
 }
